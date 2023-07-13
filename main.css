@@ -1,3 +1,34 @@
 body {
+  margin: 0px 20px;
+  padding: 10px 20px;
   background-color: aliceblue;
+  
+  
+}
+#mesa {
+  padding: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid blueviolet;
+ 
+
+}
+
+   
+#countryside {
+  padding: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 1px double pink;
+ 
+}
+h1 {
+  color: rgb(142, 48, 142);
+  font-size: 42px;
+  padding: 30px 10px 10px 10px;
+  text-align: center;
+  background-image: url("https://png.pngtree.com/element_our/png/20180926/pink-gradient-png_114039.jpg");
+  height: 100px;
+  opacity: 0.8;
+}
+h2 {
+  color: plum;
 }
